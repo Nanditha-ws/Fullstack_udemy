@@ -1,0 +1,28 @@
+
+/*Using css selectors*/
+/*ELEMENT SELECTOR*/
+img{
+    height: 200px;
+    width: 200px;
+}
+/*CLASS SELECTOR*/
+.color-title
+{
+font-size:normal;
+}
+/*ID SELECTOR*/
+#red{
+    color:red
+}
+#blue{
+    color:blue
+}
+#orange{
+    color:orange
+}
+#green{
+    color:green
+}
+#yellow{
+    color:yellow
+}
